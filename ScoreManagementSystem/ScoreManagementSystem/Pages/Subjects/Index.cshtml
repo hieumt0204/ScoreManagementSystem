@@ -1,0 +1,97 @@
+﻿@page
+@model ScoreManagementSystem.Pages.Subjects.IndexModel
+@using ScoreManagementSystem.Models
+@using Microsoft.AspNetCore.Http
+@inject IHttpContextAccessor Accessor
+@{
+    int? roleId = @Accessor.HttpContext?.Session.GetInt32("RoleId");
+    int? userId = @Accessor.HttpContext?.Session.GetInt32("UserId");
+}
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Pages/Shared/_LayoutDashBoard.cshtml";
+}
+
+<h1>Subjects</h1>
+@if(roleId != null && roleId == (int)RoleEnum.ADMIN)
+{
+   <p>
+       <a class="btn btn-primary" asp-page="Create">Create New</a>
+   </p> 
+}
+<form method="post">
+    <div class="row">
+        <div class="col-md-3 form-group">
+            <select class="form-control" asp-for="@Model.IsCurrentSubject">
+                <option value="false">All Subject</option>
+                <option value="true">Current Subject</option>
+            </select>
+        </div>
+        <div class="col-md-9">
+        </div>
+        <div class="col-md-3 form-group">
+            <input asp-for="@Model.Name" class="form-control" placeholder="Search Class Name..."/>
+        </div>
+    </div>
+    
+    <button class="btn btn-primary">Search</button>
+</form>
+
+<table data-toggle="table" data-pagination="true" class="table text-nowrap">
+    <thead>
+        <tr>
+            <th data-sortable="true">
+                @Html.DisplayNameFor(model => model.Subject[0].Name)
+            </th>
+            <th data-sortable="true">
+                @Html.DisplayNameFor(model => model.Subject[0].Active)
+            </th>
+            <th data-sortable="true">
+                @Html.DisplayNameFor(model => model.Subject[0].Description)
+            </th>
+            <th data-sortable="true">
+                @Html.DisplayNameFor(model => model.Subject[0].CreatedAt)
+            </th>
+            <th data-sortable="true">
+                Create By
+            </th>
+            <th ></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Subject) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @(item.Active==true?"Active":"InActive")
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CreatedAt)
+            </td>
+            <td>
+                @item.CreatedByNavigation?.Name
+            </td>
+            <td>
+                    @if (roleId != null && roleId == (int)RoleEnum.ADMIN)
+                    {
+                        <a class="btn btn-warning" asp-page="./Edit" asp-route-id="@item.Id">Edit </a>
+                    }
+                    <a class="btn btn-info" asp-page="./Details" asp-route-id="@item.Id">Details </a>
+                </td>
+        </tr>
+}
+    </tbody>
+</table>
+
+<script>
+    function ShowConfirm(id){
+        if(confirm('Do you want to change status this subject?') == true){
+            window.location.href = '/Subjects/Delete?id='+id;
+        }
+    }
+</script>

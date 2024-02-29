@@ -1,0 +1,98 @@
+﻿@page
+@model ScoreManagementSystem.Pages.Users.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Pages/Shared/_LayoutDashBoard.cshtml";
+}
+
+
+
+<div class="row bg-white p-2">
+    <div class="col-sm-12">
+        <div class="white-box">
+            <h3 class="box-title">Manage Users</h3>
+            <form method="post">
+                <div class="row">
+                    <div class="col-md-3 form-group">
+                        <select asp-for="RoleId" class="form-control">
+                            <option value="1">Student</option>
+                            <option value="2">Teacher</option>
+                            <option value="3">Admin</option>
+                        </select>
+                    </div>
+                    <div class="col-md-9"></div>
+                    <div class="col-md-3 form-group">
+                        <input placeholder="Search Name..." asp-for="Name" class="form-control"/>
+                    </div>
+                </div>
+                <button type="submit" class="btn btn-primary">Search</button>
+            </form>
+            <p>
+                <a class="btn btn-primary mt-2" asp-page="Create">Create New</a>
+            </p>
+            <div class="table-responsive">
+                <table id="userTable" data-toggle="table"
+                        data-pagination="true" class="table text-nowrap">
+                    <thead>
+                        <tr>
+                            <th data-sortable="true">
+                                @Html.DisplayNameFor(model => model.User[0].Name)
+                            </th>
+                            <th data-sortable="true">
+                                @Html.DisplayNameFor(model => model.User[0].Email)
+                            </th>
+                            <th data-sortable="true">
+                                @Html.DisplayNameFor(model => model.User[0].Password)
+                            </th>
+                            <th data-sortable="true">
+                                @Html.DisplayNameFor(model => model.User[0].Active)
+                            </th>
+                            <th data-sortable="true">
+                                @Html.DisplayNameFor(model => model.User[0].Gender)
+                            </th>
+                            <th data-sortable="true">
+                                @Html.DisplayNameFor(model => model.User[0].Role)
+                            </th>
+                            <th></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                @foreach (var item in Model.User) {
+                        <tr>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Name)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Email)
+                            </td>
+                            <td>
+                                ****@item.Password.Substring(item.Password.Length/2)
+                            </td>
+                            <td>
+                                @(item.Active==true?"Active":"InActive")
+                            </td>
+                            <td>
+                                @(item.Gender==true?"Male":"Female")
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Role.Name)
+                            </td>
+                            <td>
+                                <a class="btn btn-warning" asp-page="./Edit" asp-route-id="@item.Id">Edit</a>
+                                <a class="btn btn-info" asp-page="./Details" asp-route-id="@item.Id">Details</a>
+                            </td>
+                        </tr>
+                }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+    $(document).ready(function() {
+        $('#userTable').bootstrapTable();
+        
+    });
+</script>

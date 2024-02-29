@@ -1,0 +1,92 @@
+﻿@page
+@model ScoreManagementSystem.Pages.Classes.DetailsModel
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Pages/Shared/_LayoutDashBoard.cshtml";
+}
+
+<h1>Details</h1>
+<div class="row">
+    <div class="col-md-6">
+        <h4>Class</h4>
+        <hr />
+        <dl class="row">
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.Classs.Name)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Classs.Name)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.Classs.Active)
+            </dt>
+            <dd class="col-sm-10">
+                @(Model.Classs.Active == true ? "Active" : "InActive")
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.Classs.CreatedAt)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Classs.CreatedAt)
+            </dd>
+            <dt class="col-sm-2">
+                Create By
+            </dt>
+            <dd class="col-sm-10">
+                @(Model.Classs?.CreatedByNavigation?.Name)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.Classs.Teacher)
+            </dt>
+            <dd class="col-sm-10">
+                @Model.Classs?.Teacher?.Name
+            </dd>
+        </dl>
+    </div>
+    <div class="col-md-6">
+        <h4>List Students</h4>
+        <table id="userTable" data-toggle="table"
+                        data-pagination="true" class="table text-nowrap">
+            <thead>
+                <tr>
+                    <th data-sortable="true">
+                        @Html.DisplayNameFor(model => model.Students[0].Name)
+                    </th>
+                    <th data-sortable="true">
+                        @Html.DisplayNameFor(model => model.Students[0].Email)
+                    </th>
+                    <th data-sortable="true">
+                        @Html.DisplayNameFor(model => model.Students[0].Active)
+                    </th>
+                    <th data-sortable="true">
+                        @Html.DisplayNameFor(model => model.Students[0].Gender)
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model.Students) {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Name)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Email)
+                        </td>
+                        <td>
+                            @(item.Active==true?"Active":"InActive")
+                        </td>
+                        <td>
+                            @(item.Gender==true?"Male":"Female")
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+    </div>
+</div>
+
+<div>
+    <a asp-page="./Index">Back to List</a>
+</div>

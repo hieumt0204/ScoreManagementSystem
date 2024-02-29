@@ -1,0 +1,122 @@
+﻿@page
+@model ScoreManagementSystem.Pages.Classes.EditModel
+@using Microsoft.EntityFrameworkCore;
+@using ScoreManagementSystem.Models
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Pages/Shared/_LayoutDashBoard.cshtml";
+
+    Prn221Context context = new Prn221Context();
+    List<ClassStudent> studentInOtherClass = context.Classes.Include(c => c.ClassStudents)
+        .Where(c => c.SubjectId == Model.Class.SubjectId && c.Id != Model.Class.Id)
+        .SelectMany(c => c.ClassStudents)
+        .ToList();
+
+    
+    List<User> students = context.Users
+        .Where(x => x.RoleId==(int)RoleEnum.STUDENT
+            && !studentInOtherClass.Select(c => c.StudentId).Contains(x.Id)
+            && x.Active == true
+        )
+        .ToList();
+}
+
+<h1>Edit</h1>
+
+<h4>Class</h4>
+<hr />
+<div class="row">
+    <form class="row w-100" method="post">
+        <div class="col-md-4">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Class.Id" />
+            <input type="hidden" asp-for="OldSubjectId" />
+            <div class="form-group">
+                <label asp-for="Class.Name" class="control-label"></label>
+                <input asp-for="Class.Name" class="form-control" />
+                <span asp-validation-for="Class.Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Class.Active" class="control-label"></label>
+                <select asp-for="Class.Active" class="form-control">
+                    <option value="true">Active</option>
+                    <option value="false">InActive</option>
+                </select>
+                <span asp-validation-for="Class.Active" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Class.TeacherId" class="control-label">Teacher</label>
+                <select asp-for="Class.TeacherId" class="form-control" asp-items="ViewBag.TeacherId"></select>
+                <span asp-validation-for="Class.TeacherId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Class.SubjectId" class="control-label">Subject</label>
+                <select asp-for="Class.SubjectId" class ="form-control" asp-items="ViewBag.SubjectId"></select>
+                <span class="text-warning ml-2">If you change the subject list of student must be reset</span>
+            </div>
+            <div class="d-none form-group">
+                <label asp-for="Class.CreatedBy" class="control-label"></label>
+                <input asp-for="Class.CreatedBy" class="form-control"/>
+                <span asp-validation-for="Class.CreatedBy" class="text-danger"></span>
+            </div>
+            
+        </div>
+
+        <div class="col-md-8 row">
+            <div class="col-md-6">
+                <div class="form-group">
+                    <label class="control-label">Students</label>
+                    <input class="form-control mb-3" placeholder="Search student id or name..." id="key"/>
+                    <div style="height: 270px" class="overflow-auto">
+                        @{
+                            if(students != null)
+                            {
+                                @foreach (var item in students)
+                                {
+                                    <div id="s-@item.Id" class="student-item form-control">
+                                        <input name="studentId" checked="@(Model.StudentIdsInClass.Contains(item.Id))"
+                                            type="checkbox" value="@item.Id"/>
+                                        @item.Id. <span>@item.Name</span>
+                                    </div>
+                                }
+                            }
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="form-group ml-3">
+            <input type="submit" value="Save" class="btn btn-primary" />
+        </div>
+    </form>
+</div>
+
+<div>
+    <a asp-page="./Index">Back to List</a>
+</div>
+<script>
+    $(document).ready(function() {
+        $('#key').on('input', function() {
+            var text = $(this).val();
+            text = text.trim().toLowerCase();
+            
+            var studentItems = $('.student-item');
+
+            studentItems.each(function(index, element) {
+                var id = $(element).find('input[type="checkbox"]').val();
+                var name = $(element).find('span').text();
+                if(id == text || name.trim().toLowerCase().includes(text)){
+                    $('#s-'+id).css('display', 'block');
+                }else{
+                    $('#s-'+id).css('display', 'none');
+                }
+            });
+
+        });
+
+    });
+
+</script>
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

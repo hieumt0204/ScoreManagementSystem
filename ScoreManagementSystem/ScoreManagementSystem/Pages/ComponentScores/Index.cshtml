@@ -1,0 +1,116 @@
+﻿@page
+@model ScoreManagementSystem.Pages.ComponentScores.IndexModel
+@using ScoreManagementSystem.Models
+@using ScoreManagementSystem.Models
+@using Microsoft.AspNetCore.Http
+@inject IHttpContextAccessor Accessor
+@{
+    int? roleId = @Accessor.HttpContext?.Session.GetInt32("RoleId");
+    int? userId = @Accessor.HttpContext?.Session.GetInt32("UserId");
+}
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Pages/Shared/_LayoutDashBoard.cshtml";
+
+    Prn221Context context = new Prn221Context();
+    List<Subject> subjects = context.Subjects.ToList();
+}
+<div class="bg-white p-2">
+<h1>Component Score</h1>
+@if(roleId != null && roleId == (int)RoleEnum.ADMIN)
+{
+   <p>
+        <a class="btn btn-primary" asp-page="Create">Create New</a>
+    </p> 
+}
+
+
+<form method="post">
+    Filter By Subject:
+    <div class="row">
+        <div class="form-group col-md-3">
+            <select class="form-control" asp-for="@Model.SubjectId">
+                @{
+                    if(subjects != null)
+                    {
+                        <option value="-1">All Subject</option>
+                        foreach (var item in subjects)
+                        {
+                            <option value="@item.Id">@item.Name</option>
+                        }
+                    }
+                }
+            </select>
+        </div>
+        <div class="form-group col-md-3">
+            <input class="form-control" placeholder="Search Name..." asp-for="@Model.ComponentName"/>
+        </div>
+        <div class="col-md-2">
+            <button type="submit" class="btn btn-primary">Search</button>
+        </div>
+    </div>
+    
+</form>
+
+<table id="exampleTable" data-toggle="table" data-pagination="true" class="table text-nowrap">
+    <thead>
+        <tr>
+            <th data-sortable="true">
+                @Html.DisplayNameFor(model => model.ComponentScore[0].Name)
+            </th>
+            <th data-sortable="true">
+                @Html.DisplayNameFor(model => model.ComponentScore[0].Percent) (%)
+            </th>
+            <th data-sortable="true">
+                @Html.DisplayNameFor(model => model.ComponentScore[0].Active)
+            </th>
+            <th data-sortable="true">
+                @Html.DisplayNameFor(model => model.ComponentScore[0].Description)
+            </th>
+            <th data-sortable="true">
+                @Html.DisplayNameFor(model => model.ComponentScore[0].Subject)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.ComponentScore) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Percent)
+            </td>
+            <td>
+                @(item.Active==true ? "Active" : "InActive")
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Subject.Name)
+            </td>
+            <td>
+                @if (roleId != null && roleId == (int)RoleEnum.ADMIN)
+                {
+                    <a class="btn btn-warning" asp-page="./Edit" asp-route-id="@item.Id">Edit </a>
+                    <a class="btn btn-danger" onclick="ShowConfirm(@item.Id)">Delete</a>
+                }
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+</div>
+<script>
+    $(document).ready(function() {
+        $('#exampleTable').bootstrapTable();
+        
+    });
+    function ShowConfirm(id){
+        if(confirm('Do you want to delete this component score?') == true){
+            window.location.href = '/ComponentScores/Delete?id='+id;
+        }
+    }
+</script>

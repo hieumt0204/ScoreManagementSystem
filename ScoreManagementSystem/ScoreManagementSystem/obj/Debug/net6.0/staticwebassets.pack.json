@@ -1,0 +1,1721 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ScoreManagementSystem.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ScoreManagementSystem.bundle.scp.css"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\bootstrap\\dist\\.DS_Store",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\.DS_Store"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\.DS_Store",
+      "PackagePath": "staticwebassets\\css\\icons\\.DS_Store"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\font-awesome\\css\\fa-brands.css",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\css\\fa-brands.css"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\font-awesome\\css\\fa-brands.min.css",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\css\\fa-brands.min.css"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\font-awesome\\css\\fa-regular.css",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\css\\fa-regular.css"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\font-awesome\\css\\fa-regular.min.css",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\css\\fa-regular.min.css"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\font-awesome\\css\\fa-solid.css",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\css\\fa-solid.css"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\font-awesome\\css\\fa-solid.min.css",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\css\\fa-solid.min.css"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\font-awesome\\css\\fontawesome-all.css",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\css\\fontawesome-all.css"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\font-awesome\\css\\fontawesome-all.min.css",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\css\\fontawesome-all.min.css"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\font-awesome\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\css\\fontawesome.css"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\font-awesome\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\css\\fontawesome.min.css"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\font-awesome\\less\\_animated.less",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\less\\_animated.less"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\font-awesome\\less\\_bordered-pulled.less",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\less\\_bordered-pulled.less"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\font-awesome\\less\\_core.less",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\less\\_core.less"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\font-awesome\\less\\_fixed-width.less",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\less\\_fixed-width.less"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\font-awesome\\less\\_icons.less",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\less\\_icons.less"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\font-awesome\\less\\_larger.less",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\less\\_larger.less"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\font-awesome\\less\\_list.less",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\less\\_list.less"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\font-awesome\\less\\_mixins.less",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\less\\_mixins.less"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\font-awesome\\less\\_rotated-flipped.less",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\less\\_rotated-flipped.less"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\font-awesome\\less\\_screen-reader.less",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\less\\_screen-reader.less"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\font-awesome\\less\\_stacked.less",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\less\\_stacked.less"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\font-awesome\\less\\_variables.less",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\less\\_variables.less"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\font-awesome\\less\\fa-brands.less",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\less\\fa-brands.less"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\font-awesome\\less\\fa-regular.less",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\less\\fa-regular.less"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\font-awesome\\less\\fa-solid.less",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\less\\fa-solid.less"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\font-awesome\\less\\fontawesome.less",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\less\\fontawesome.less"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\font-awesome\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\scss\\_animated.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\font-awesome\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\font-awesome\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\scss\\_core.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\font-awesome\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\font-awesome\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\scss\\_icons.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\font-awesome\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\scss\\_larger.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\font-awesome\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\scss\\_list.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\font-awesome\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\font-awesome\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\font-awesome\\scss\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\scss\\_screen-reader.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\font-awesome\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\font-awesome\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\scss\\_variables.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\font-awesome\\scss\\fa-brands.scss",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\scss\\fa-brands.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\font-awesome\\scss\\fa-regular.scss",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\scss\\fa-regular.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\font-awesome\\scss\\fa-solid.scss",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\scss\\fa-solid.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\font-awesome\\scss\\fontawesome.scss",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\scss\\fontawesome.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\font-awesome\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\font-awesome\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\font-awesome\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\font-awesome\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\font-awesome\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\font-awesome\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\font-awesome\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\font-awesome\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\font-awesome\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\font-awesome\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\font-awesome\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\font-awesome\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\font-awesome\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\font-awesome\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\font-awesome\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\css\\icons\\font-awesome\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\material-design-iconic-font\\css\\material-design-iconic-font.css",
+      "PackagePath": "staticwebassets\\css\\icons\\material-design-iconic-font\\css\\material-design-iconic-font.css"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\material-design-iconic-font\\css\\material-design-iconic-font.min.css",
+      "PackagePath": "staticwebassets\\css\\icons\\material-design-iconic-font\\css\\material-design-iconic-font.min.css"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\material-design-iconic-font\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\css\\icons\\material-design-iconic-font\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.eot",
+      "PackagePath": "staticwebassets\\css\\icons\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.eot"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.svg",
+      "PackagePath": "staticwebassets\\css\\icons\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.svg"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.ttf",
+      "PackagePath": "staticwebassets\\css\\icons\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.ttf"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.woff",
+      "PackagePath": "staticwebassets\\css\\icons\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.woff"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.woff2",
+      "PackagePath": "staticwebassets\\css\\icons\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.woff2"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\css\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont.svg",
+      "PackagePath": "staticwebassets\\css\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont.svg"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\css\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\css\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\css\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\themify-icons\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\css\\icons\\themify-icons\\fonts\\themify.eot"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\themify-icons\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\css\\icons\\themify-icons\\fonts\\themify.svg"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\themify-icons\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\css\\icons\\themify-icons\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\themify-icons\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\css\\icons\\themify-icons\\fonts\\themify.woff"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\themify-icons\\ie7\\ie7.css",
+      "PackagePath": "staticwebassets\\css\\icons\\themify-icons\\ie7\\ie7.css"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\themify-icons\\ie7\\ie7.js",
+      "PackagePath": "staticwebassets\\css\\icons\\themify-icons\\ie7\\ie7.js"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\themify-icons\\themify-icons.css",
+      "PackagePath": "staticwebassets\\css\\icons\\themify-icons\\themify-icons.css"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\themify-icons\\themify-icons.less",
+      "PackagePath": "staticwebassets\\css\\icons\\themify-icons\\themify-icons.less"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\weather-icons\\css\\weather-icons-core.css",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\css\\weather-icons-core.css"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\weather-icons\\css\\weather-icons-variables.css",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\css\\weather-icons-variables.css"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\weather-icons\\css\\weather-icons-wind.css",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\css\\weather-icons-wind.css"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\weather-icons\\css\\weather-icons-wind.min.css",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\css\\weather-icons-wind.min.css"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\weather-icons\\css\\weather-icons.css",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\css\\weather-icons.css"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\weather-icons\\css\\weather-icons.min.css",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\css\\weather-icons.min.css"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\weather-icons\\fonts\\weathericons-regular-webfont.eot",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\fonts\\weathericons-regular-webfont.eot"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\weather-icons\\fonts\\weathericons-regular-webfont.svg",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\fonts\\weathericons-regular-webfont.svg"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\weather-icons\\fonts\\weathericons-regular-webfont.ttf",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\fonts\\weathericons-regular-webfont.ttf"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\weather-icons\\fonts\\weathericons-regular-webfont.woff",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\fonts\\weathericons-regular-webfont.woff"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\weather-icons\\fonts\\weathericons-regular-webfont.woff2",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\fonts\\weathericons-regular-webfont.woff2"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\weather-icons\\less\\css\\variables-beaufort.css",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\less\\css\\variables-beaufort.css"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\weather-icons\\less\\css\\variables-day.css",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\less\\css\\variables-day.css"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\weather-icons\\less\\css\\variables-direction.css",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\less\\css\\variables-direction.css"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\weather-icons\\less\\css\\variables-misc.css",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\less\\css\\variables-misc.css"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\weather-icons\\less\\css\\variables-moon.css",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\less\\css\\variables-moon.css"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\weather-icons\\less\\css\\variables-neutral.css",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\less\\css\\variables-neutral.css"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\weather-icons\\less\\css\\variables-night.css",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\less\\css\\variables-night.css"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\weather-icons\\less\\css\\variables-time.css",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\less\\css\\variables-time.css"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\weather-icons\\less\\css\\variables-wind-names.css",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\less\\css\\variables-wind-names.css"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\weather-icons\\less\\icon-classes\\classes-beaufort.less",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\less\\icon-classes\\classes-beaufort.less"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\weather-icons\\less\\icon-classes\\classes-day.less",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\less\\icon-classes\\classes-day.less"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\weather-icons\\less\\icon-classes\\classes-direction.less",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\less\\icon-classes\\classes-direction.less"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\weather-icons\\less\\icon-classes\\classes-misc.less",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\less\\icon-classes\\classes-misc.less"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\weather-icons\\less\\icon-classes\\classes-moon-aliases.less",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\less\\icon-classes\\classes-moon-aliases.less"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\weather-icons\\less\\icon-classes\\classes-moon.less",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\less\\icon-classes\\classes-moon.less"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\weather-icons\\less\\icon-classes\\classes-neutral.less",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\less\\icon-classes\\classes-neutral.less"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\weather-icons\\less\\icon-classes\\classes-night.less",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\less\\icon-classes\\classes-night.less"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\weather-icons\\less\\icon-classes\\classes-time.less",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\less\\icon-classes\\classes-time.less"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\weather-icons\\less\\icon-classes\\classes-wind-aliases.less",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\less\\icon-classes\\classes-wind-aliases.less"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\weather-icons\\less\\icon-classes\\classes-wind-degrees.less",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\less\\icon-classes\\classes-wind-degrees.less"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\weather-icons\\less\\icon-classes\\classes-wind.less",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\less\\icon-classes\\classes-wind.less"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\weather-icons\\less\\icon-variables\\variables-beaufort.less",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\less\\icon-variables\\variables-beaufort.less"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\weather-icons\\less\\icon-variables\\variables-day.less",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\less\\icon-variables\\variables-day.less"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\weather-icons\\less\\icon-variables\\variables-direction.less",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\less\\icon-variables\\variables-direction.less"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\weather-icons\\less\\icon-variables\\variables-misc.less",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\less\\icon-variables\\variables-misc.less"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\weather-icons\\less\\icon-variables\\variables-moon.less",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\less\\icon-variables\\variables-moon.less"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\weather-icons\\less\\icon-variables\\variables-neutral.less",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\less\\icon-variables\\variables-neutral.less"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\weather-icons\\less\\icon-variables\\variables-night.less",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\less\\icon-variables\\variables-night.less"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\weather-icons\\less\\icon-variables\\variables-time.less",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\less\\icon-variables\\variables-time.less"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\weather-icons\\less\\icon-variables\\variables-wind-names.less",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\less\\icon-variables\\variables-wind-names.less"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\weather-icons\\less\\mappings\\wi-forecast-io.less",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\less\\mappings\\wi-forecast-io.less"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\weather-icons\\less\\mappings\\wi-owm.less",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\less\\mappings\\wi-owm.less"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\weather-icons\\less\\mappings\\wi-wmo4680.less",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\less\\mappings\\wi-wmo4680.less"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\weather-icons\\less\\mappings\\wi-yahoo.less",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\less\\mappings\\wi-yahoo.less"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\weather-icons\\less\\weather-icons-classes.less",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\less\\weather-icons-classes.less"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\weather-icons\\less\\weather-icons-core.less",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\less\\weather-icons-core.less"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\weather-icons\\less\\weather-icons-variables.less",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\less\\weather-icons-variables.less"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\weather-icons\\less\\weather-icons-wind.less",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\less\\weather-icons-wind.less"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\weather-icons\\less\\weather-icons-wind.min.less",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\less\\weather-icons-wind.min.less"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\weather-icons\\less\\weather-icons.less",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\less\\weather-icons.less"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\weather-icons\\less\\weather-icons.min.less",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\less\\weather-icons.min.less"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\weather-icons\\sass\\icon-classes\\classes-beaufort.scss",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\sass\\icon-classes\\classes-beaufort.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\weather-icons\\sass\\icon-classes\\classes-day.scss",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\sass\\icon-classes\\classes-day.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\weather-icons\\sass\\icon-classes\\classes-direction.scss",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\sass\\icon-classes\\classes-direction.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\weather-icons\\sass\\icon-classes\\classes-misc.scss",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\sass\\icon-classes\\classes-misc.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\weather-icons\\sass\\icon-classes\\classes-moon-aliases.scss",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\sass\\icon-classes\\classes-moon-aliases.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\weather-icons\\sass\\icon-classes\\classes-moon.scss",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\sass\\icon-classes\\classes-moon.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\weather-icons\\sass\\icon-classes\\classes-neutral.scss",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\sass\\icon-classes\\classes-neutral.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\weather-icons\\sass\\icon-classes\\classes-night.scss",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\sass\\icon-classes\\classes-night.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\weather-icons\\sass\\icon-classes\\classes-time.scss",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\sass\\icon-classes\\classes-time.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\weather-icons\\sass\\icon-classes\\classes-wind-aliases.scss",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\sass\\icon-classes\\classes-wind-aliases.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\weather-icons\\sass\\icon-classes\\classes-wind-degrees.scss",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\sass\\icon-classes\\classes-wind-degrees.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\weather-icons\\sass\\icon-classes\\classes-wind.scss",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\sass\\icon-classes\\classes-wind.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\weather-icons\\sass\\icon-variables\\variables-beaufort.scss",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\sass\\icon-variables\\variables-beaufort.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\weather-icons\\sass\\icon-variables\\variables-day.scss",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\sass\\icon-variables\\variables-day.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\weather-icons\\sass\\icon-variables\\variables-direction.scss",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\sass\\icon-variables\\variables-direction.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\weather-icons\\sass\\icon-variables\\variables-misc.scss",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\sass\\icon-variables\\variables-misc.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\weather-icons\\sass\\icon-variables\\variables-moon.scss",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\sass\\icon-variables\\variables-moon.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\weather-icons\\sass\\icon-variables\\variables-neutral.scss",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\sass\\icon-variables\\variables-neutral.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\weather-icons\\sass\\icon-variables\\variables-night.scss",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\sass\\icon-variables\\variables-night.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\weather-icons\\sass\\icon-variables\\variables-time.scss",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\sass\\icon-variables\\variables-time.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\weather-icons\\sass\\icon-variables\\variables-wind-names.scss",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\sass\\icon-variables\\variables-wind-names.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\weather-icons\\sass\\mappings\\wi-forecast-io.scss",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\sass\\mappings\\wi-forecast-io.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\weather-icons\\sass\\mappings\\wi-owm.scss",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\sass\\mappings\\wi-owm.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\weather-icons\\sass\\mappings\\wi-wmo4680.scss",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\sass\\mappings\\wi-wmo4680.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\weather-icons\\sass\\mappings\\wi-yahoo.scss",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\sass\\mappings\\wi-yahoo.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\weather-icons\\sass\\weather-icons-classes.scss",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\sass\\weather-icons-classes.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\weather-icons\\sass\\weather-icons-core.scss",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\sass\\weather-icons-core.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\weather-icons\\sass\\weather-icons-variables.scss",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\sass\\weather-icons-variables.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\weather-icons\\sass\\weather-icons-wind.min.scss",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\sass\\weather-icons-wind.min.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\weather-icons\\sass\\weather-icons-wind.scss",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\sass\\weather-icons-wind.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\weather-icons\\sass\\weather-icons.min.scss",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\sass\\weather-icons.min.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\icons\\weather-icons\\sass\\weather-icons.scss",
+      "PackagePath": "staticwebassets\\css\\icons\\weather-icons\\sass\\weather-icons.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\login.css",
+      "PackagePath": "staticwebassets\\css\\login.css"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\css\\style.min.css",
+      "PackagePath": "staticwebassets\\css\\style.min.css"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\js\\app-style-switcher.js",
+      "PackagePath": "staticwebassets\\js\\app-style-switcher.js"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\js\\login.js",
+      "PackagePath": "staticwebassets\\js\\login.js"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\js\\pages\\dashboards\\dashboard1.js",
+      "PackagePath": "staticwebassets\\js\\pages\\dashboards\\dashboard1.js"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\js\\score.js",
+      "PackagePath": "staticwebassets\\js\\score.js"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\js\\sidebarmenu.js",
+      "PackagePath": "staticwebassets\\js\\sidebarmenu.js"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\js\\waves.js",
+      "PackagePath": "staticwebassets\\js\\waves.js"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\plugins\\.DS_Store",
+      "PackagePath": "staticwebassets\\plugins\\.DS_Store"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\plugins\\bower_components\\chartist-plugin-tooltips\\dist\\chartist-plugin-tooltip.css",
+      "PackagePath": "staticwebassets\\plugins\\bower_components\\chartist-plugin-tooltips\\dist\\chartist-plugin-tooltip.css"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\plugins\\bower_components\\chartist\\dist\\chartist.min.css",
+      "PackagePath": "staticwebassets\\plugins\\bower_components\\chartist\\dist\\chartist.min.css"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\plugins\\bower_components\\perfect-scrollbar\\dist\\css\\perfect-scrollbar.min.css",
+      "PackagePath": "staticwebassets\\plugins\\bower_components\\perfect-scrollbar\\dist\\css\\perfect-scrollbar.min.css"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\plugins\\images\\.DS_Store",
+      "PackagePath": "staticwebassets\\plugins\\images\\.DS_Store"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\plugins\\images\\custom-select.png",
+      "PackagePath": "staticwebassets\\plugins\\images\\custom-select.png"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\plugins\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\plugins\\images\\favicon.png"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\plugins\\images\\large\\img1.jpg",
+      "PackagePath": "staticwebassets\\plugins\\images\\large\\img1.jpg"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\plugins\\images\\logo-icon.png",
+      "PackagePath": "staticwebassets\\plugins\\images\\logo-icon.png"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\plugins\\images\\logo-light-icon.png",
+      "PackagePath": "staticwebassets\\plugins\\images\\logo-light-icon.png"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\plugins\\images\\logo-light-text.png",
+      "PackagePath": "staticwebassets\\plugins\\images\\logo-light-text.png"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\plugins\\images\\logo-text.png",
+      "PackagePath": "staticwebassets\\plugins\\images\\logo-text.png"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\plugins\\images\\users\\1-old.jpg",
+      "PackagePath": "staticwebassets\\plugins\\images\\users\\1-old.jpg"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\plugins\\images\\users\\1.jpg",
+      "PackagePath": "staticwebassets\\plugins\\images\\users\\1.jpg"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\plugins\\images\\users\\1.png",
+      "PackagePath": "staticwebassets\\plugins\\images\\users\\1.png"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\plugins\\images\\users\\2.jpg",
+      "PackagePath": "staticwebassets\\plugins\\images\\users\\2.jpg"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\plugins\\images\\users\\2.png",
+      "PackagePath": "staticwebassets\\plugins\\images\\users\\2.png"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\plugins\\images\\users\\3.jpg",
+      "PackagePath": "staticwebassets\\plugins\\images\\users\\3.jpg"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\plugins\\images\\users\\3.png",
+      "PackagePath": "staticwebassets\\plugins\\images\\users\\3.png"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\plugins\\images\\users\\4.jpg",
+      "PackagePath": "staticwebassets\\plugins\\images\\users\\4.jpg"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\plugins\\images\\users\\5.jpg",
+      "PackagePath": "staticwebassets\\plugins\\images\\users\\5.jpg"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\plugins\\images\\users\\6.jpg",
+      "PackagePath": "staticwebassets\\plugins\\images\\users\\6.jpg"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\plugins\\images\\users\\7.jpg",
+      "PackagePath": "staticwebassets\\plugins\\images\\users\\7.jpg"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\plugins\\images\\users\\8.jpg",
+      "PackagePath": "staticwebassets\\plugins\\images\\users\\8.jpg"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\plugins\\images\\users\\agent.jpg",
+      "PackagePath": "staticwebassets\\plugins\\images\\users\\agent.jpg"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\plugins\\images\\users\\agent2.jpg",
+      "PackagePath": "staticwebassets\\plugins\\images\\users\\agent2.jpg"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\plugins\\images\\users\\arijit.jpg",
+      "PackagePath": "staticwebassets\\plugins\\images\\users\\arijit.jpg"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\plugins\\images\\users\\d1.jpg",
+      "PackagePath": "staticwebassets\\plugins\\images\\users\\d1.jpg"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\plugins\\images\\users\\d2.jpg",
+      "PackagePath": "staticwebassets\\plugins\\images\\users\\d2.jpg"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\plugins\\images\\users\\d3.jpg",
+      "PackagePath": "staticwebassets\\plugins\\images\\users\\d3.jpg"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\plugins\\images\\users\\d4.jpg",
+      "PackagePath": "staticwebassets\\plugins\\images\\users\\d4.jpg"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\plugins\\images\\users\\d5.jpg",
+      "PackagePath": "staticwebassets\\plugins\\images\\users\\d5.jpg"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\plugins\\images\\users\\genu.jpg",
+      "PackagePath": "staticwebassets\\plugins\\images\\users\\genu.jpg"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\plugins\\images\\users\\govinda.jpg",
+      "PackagePath": "staticwebassets\\plugins\\images\\users\\govinda.jpg"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\plugins\\images\\users\\hritik.jpg",
+      "PackagePath": "staticwebassets\\plugins\\images\\users\\hritik.jpg"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\plugins\\images\\users\\pawandeep.jpg",
+      "PackagePath": "staticwebassets\\plugins\\images\\users\\pawandeep.jpg"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\plugins\\images\\users\\profile.png",
+      "PackagePath": "staticwebassets\\plugins\\images\\users\\profile.png"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\plugins\\images\\users\\ritesh.jpg",
+      "PackagePath": "staticwebassets\\plugins\\images\\users\\ritesh.jpg"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\plugins\\images\\users\\sonu.jpg",
+      "PackagePath": "staticwebassets\\plugins\\images\\users\\sonu.jpg"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\plugins\\images\\users\\varun.jpg",
+      "PackagePath": "staticwebassets\\plugins\\images\\users\\varun.jpg"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\.DS_Store",
+      "PackagePath": "staticwebassets\\scss\\.DS_Store"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\bootstrap\\.DS_Store",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\.DS_Store"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\bootstrap\\_accordion.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_accordion.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\bootstrap\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_alert.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\bootstrap\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_badge.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\bootstrap\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_breadcrumb.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\bootstrap\\_button-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_button-group.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\bootstrap\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_buttons.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\bootstrap\\_card.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_card.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\bootstrap\\_carousel.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_carousel.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\bootstrap\\_close.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_close.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\bootstrap\\_containers.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_containers.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\bootstrap\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_dropdown.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\bootstrap\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_forms.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\bootstrap\\_functions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_functions.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\bootstrap\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_grid.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\bootstrap\\_helpers.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_helpers.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\bootstrap\\_images.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_images.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\bootstrap\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_list-group.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\bootstrap\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_mixins.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\bootstrap\\_modal.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_modal.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\bootstrap\\_nav.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_nav.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\bootstrap\\_navbar.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_navbar.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\bootstrap\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_pagination.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\bootstrap\\_popover.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_popover.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\bootstrap\\_progress.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_progress.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\bootstrap\\_reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_reboot.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\bootstrap\\_root.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_root.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\bootstrap\\_spinners.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_spinners.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\bootstrap\\_tables.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_tables.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\bootstrap\\_toasts.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_toasts.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\bootstrap\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_tooltip.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\bootstrap\\_transitions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_transitions.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\bootstrap\\_type.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_type.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\bootstrap\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_utilities.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\bootstrap\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_variables.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\bootstrap\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\bootstrap\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\bootstrap\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\bootstrap\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\bootstrap.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\bootstrap\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\bootstrap\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\bootstrap\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\bootstrap\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\bootstrap\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\bootstrap\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\bootstrap\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\bootstrap\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\forms\\_labels.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\bootstrap\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\forms\\_validation.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\bootstrap\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\bootstrap\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\bootstrap\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\helpers\\_position.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\bootstrap\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\bootstrap\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\bootstrap\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\bootstrap\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\bootstrap\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\bootstrap\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\bootstrap\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\bootstrap\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\bootstrap\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\bootstrap\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\bootstrap\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\bootstrap\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_container.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\bootstrap\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\bootstrap\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\bootstrap\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\bootstrap\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\bootstrap\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_image.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\bootstrap\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\bootstrap\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\bootstrap\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\bootstrap\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\bootstrap\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\bootstrap\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\bootstrap\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\bootstrap\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\bootstrap\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\bootstrap\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\bootstrap\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_api.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\bootstrap\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\components.scss",
+      "PackagePath": "staticwebassets\\scss\\components.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\core\\.DS_Store",
+      "PackagePath": "staticwebassets\\scss\\core\\.DS_Store"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\core\\animation\\animation.scss",
+      "PackagePath": "staticwebassets\\scss\\core\\animation\\animation.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\core\\breadcrumb\\breadcrumb.scss",
+      "PackagePath": "staticwebassets\\scss\\core\\breadcrumb\\breadcrumb.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\core\\buttons\\buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\core\\buttons\\buttons.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\core\\core.scss",
+      "PackagePath": "staticwebassets\\scss\\core\\core.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\core\\extra\\extra.scss",
+      "PackagePath": "staticwebassets\\scss\\core\\extra\\extra.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\core\\layout\\layout.scss",
+      "PackagePath": "staticwebassets\\scss\\core\\layout\\layout.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\core\\loader\\spinner.scss",
+      "PackagePath": "staticwebassets\\scss\\core\\loader\\spinner.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\core\\scafholdings\\scafholding.scss",
+      "PackagePath": "staticwebassets\\scss\\core\\scafholdings\\scafholding.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\core\\sidebar\\sidebar.scss",
+      "PackagePath": "staticwebassets\\scss\\core\\sidebar\\sidebar.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\core\\topbar\\header.scss",
+      "PackagePath": "staticwebassets\\scss\\core\\topbar\\header.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\core\\topbar\\notify.scss",
+      "PackagePath": "staticwebassets\\scss\\core\\topbar\\notify.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\core\\wave-effects\\wave-effects.scss",
+      "PackagePath": "staticwebassets\\scss\\core\\wave-effects\\wave-effects.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\custom.scss",
+      "PackagePath": "staticwebassets\\scss\\custom.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\mixins\\padding-margin.scss",
+      "PackagePath": "staticwebassets\\scss\\mixins\\padding-margin.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\responsive.scss",
+      "PackagePath": "staticwebassets\\scss\\responsive.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\scss\\style.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\theme-colors\\theme-colors.scss",
+      "PackagePath": "staticwebassets\\scss\\theme-colors\\theme-colors.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\variable.scss",
+      "PackagePath": "staticwebassets\\scss\\variable.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\widgets\\comments.scss",
+      "PackagePath": "staticwebassets\\scss\\widgets\\comments.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\widgets\\feeds.scss",
+      "PackagePath": "staticwebassets\\scss\\widgets\\feeds.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\widgets\\profile.scss",
+      "PackagePath": "staticwebassets\\scss\\widgets\\profile.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\widgets\\steamline.scss",
+      "PackagePath": "staticwebassets\\scss\\widgets\\steamline.scss"
+    },
+    {
+      "Id": "F:\\FULearning\\Semester7th_Spring2024\\PRN221\\Project\\ScoreManagementSystem\\ScoreManagementSystem\\wwwroot\\scss\\widgets\\widgets.scss",
+      "PackagePath": "staticwebassets\\scss\\widgets\\widgets.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ScoreManagementSystem.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ScoreManagementSystem.props",
+      "PackagePath": "build\\ScoreManagementSystem.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ScoreManagementSystem.props",
+      "PackagePath": "buildMultiTargeting\\ScoreManagementSystem.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ScoreManagementSystem.props",
+      "PackagePath": "buildTransitive\\ScoreManagementSystem.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

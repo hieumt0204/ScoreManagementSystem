@@ -1,0 +1,81 @@
+﻿@page
+@model ScoreManagementSystem.Pages.Scores.StudentModel
+@using Microsoft.EntityFrameworkCore;
+@using ScoreManagementSystem.Models
+
+
+@{
+    Prn221Context context = new Prn221Context();
+    double? total = 0;
+    double? totalPercent = 0;
+}
+
+<div class="row">
+    <div class="col-md-3">
+        <form method="post">
+            <div class="form-group">
+                <label>Subject:</label>
+                <select class="form-control" asp-for="@Model.SubjectId">
+                    @foreach (var item in Model.subjects)
+                    {
+                        <option value="@item.Id">@item.Name</option>
+                    }
+                </select>
+            </div>
+            <div>
+                <button type="submit" class="btn btn-primary">Search</button>
+            </div>
+        </form>
+    </div>
+    <div class="col-md-6">
+        @if(Model.SubjectId == null)
+        {
+            <h4>No Score Found</h4>
+        }
+        else
+        {
+            
+            <table id="exampleTable" data-toggle="table" data-pagination="true" class="table text-nowrap">
+                <thead>
+                    <tr>
+                        <th data-sortable="true">
+                            ComponentScore
+                        </th>
+                        <th data-sortable="true">
+                            Score
+                        </th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model.components)
+                    {
+                        var classStudent = context.ClassStudents
+                            .Include(c => c.Class)
+                            .SingleOrDefault(c => c.Class != null 
+                                && c.Class.SubjectId == Model.SubjectId
+                                && c.StudentId == Model.userId
+                            );
+
+                        var score = context.Scores
+                            .SingleOrDefault(s => s.ComponentScoreId == item.Id
+                                && classStudent != null
+                                && s.StudentId == classStudent.Id);
+                        if(score != null && score.Score1 != null && item.Percent != null)
+                        {
+                            total += item.Percent * score.Score1 / 100;
+                            totalPercent += item.Percent;
+                        }
+                        <tr>
+                            <td>@item.Name (@item.Percent%)</td>
+                            <td>@(score == null ? "" : score.Score1)</td>
+                        </tr>
+                    }
+                    <tr>
+                        <td>Total (@totalPercent%)</td>
+                        <td>@total</td>
+                    </tr>
+                </tbody>
+            </table>
+        }
+    </div>
+</div>

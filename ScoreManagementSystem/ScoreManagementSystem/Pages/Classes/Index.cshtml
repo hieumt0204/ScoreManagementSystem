@@ -1,0 +1,114 @@
+﻿@page
+@model ScoreManagementSystem.Pages.Classes.IndexModel
+@using ScoreManagementSystem.Models
+@using Microsoft.AspNetCore.Http
+@inject IHttpContextAccessor Accessor
+@{
+    int? roleId = @Accessor.HttpContext?.Session.GetInt32("RoleId");
+    int? userId = @Accessor.HttpContext?.Session.GetInt32("UserId");
+}
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Pages/Shared/_LayoutDashBoard.cshtml";
+}
+<div class="bg-white p-2">
+<h1>Class</h1>
+@if(roleId != null && roleId == (int)RoleEnum.ADMIN)
+{
+    <p>
+        <a class="btn btn-primary" asp-page="Create">Create New</a>
+    </p>
+}
+
+<form method="post">
+    <div class="row">
+        <div class="col-md-3 form-group">
+            <select class="form-control" asp-for="@Model.IsCurrentClass">
+                <option value="false">All Class</option>
+                <option value="true">Current Class</option>
+            </select>
+        </div>
+        <div class="col-md-9">
+        </div>
+        <div class="col-md-3 form-group">
+            <h4>Search By Class Name</h4>
+            <input asp-for="@Model.Name" class="form-control" placeholder="Search Class Name..."/>
+        </div>
+        <div class="col-md-3 form-group">
+            <h4>Subject</h4>
+            <select class="form-control" asp-for="@Model.SubjectId">
+                <option value="-1">All Subject</option>
+                @foreach (var item in Model.Subjects)
+                {
+                    <option value="@item.Id">@item.Name</option>       
+                }
+            </select>
+        </div>
+    </div>
+    
+    <button class="btn btn-primary mb-2">Search</button>
+</form>
+
+<table id="exampleTable" data-toggle="table" data-pagination="true" class="table text-nowrap">
+    <thead>
+        <tr>
+            <th data-sortable="true">
+                @Html.DisplayNameFor(model => model.Class[0].Name)
+            </th>
+            <th data-sortable="true">
+                @Html.DisplayNameFor(model => model.Class[0].Active)
+            </th>
+            <th data-sortable="true">
+                Create By
+            </th>
+            <th data-sortable="true">
+                @Html.DisplayNameFor(model => model.Class[0].Teacher)
+            </th>
+            <th data-sortable="true">
+                Subject
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Class) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @(item.Active==true?"Active":"InActive")
+            </td>
+            <td>
+                @item.CreatedByNavigation?.Name
+            </td>
+            <td>
+                @item.Teacher?.Name
+            </td>
+            <td>
+                @item.Subject?.Name
+            </td>
+            <td>
+                @if (roleId != null && roleId == (int)RoleEnum.ADMIN)
+                {
+                    <a class="btn btn-warning" asp-page="./Edit" asp-route-id="@item.Id">Edit </a>
+                }
+                <a class="btn btn-info" asp-page="./Details" asp-route-id="@item.Id"> Details</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+</div>
+
+<script>
+    $(document).ready(function() {
+        $('#exampleTable').bootstrapTable();
+        
+    });
+    function ShowConfirm(id){
+        if(confirm('Do you want to change status this class?') == true){
+            window.location.href = '/Classes/Delete?id='+id;
+        }
+    }
+</script>

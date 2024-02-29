@@ -1,0 +1,161 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ScoreManagementSystem
+build_property.RootNamespace = ScoreManagementSystem
+build_property.ProjectDir = F:\FULearning\Semester7th_Spring2024\PRN221\Project\ScoreManagementSystem\ScoreManagementSystem\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = F:\FULearning\Semester7th_Spring2024\PRN221\Project\ScoreManagementSystem\ScoreManagementSystem
+build_property._RazorSourceGeneratorDebug = 
+
+[F:/FULearning/Semester7th_Spring2024/PRN221/Project/ScoreManagementSystem/ScoreManagementSystem/Pages/Classes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xhc3Nlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/FULearning/Semester7th_Spring2024/PRN221/Project/ScoreManagementSystem/ScoreManagementSystem/Pages/Classes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xhc3Nlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/FULearning/Semester7th_Spring2024/PRN221/Project/ScoreManagementSystem/ScoreManagementSystem/Pages/Classes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xhc3Nlc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/FULearning/Semester7th_Spring2024/PRN221/Project/ScoreManagementSystem/ScoreManagementSystem/Pages/Classes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xhc3Nlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/FULearning/Semester7th_Spring2024/PRN221/Project/ScoreManagementSystem/ScoreManagementSystem/Pages/Classes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xhc3Nlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/FULearning/Semester7th_Spring2024/PRN221/Project/ScoreManagementSystem/ScoreManagementSystem/Pages/ComponentScores/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tcG9uZW50U2NvcmVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/FULearning/Semester7th_Spring2024/PRN221/Project/ScoreManagementSystem/ScoreManagementSystem/Pages/ComponentScores/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tcG9uZW50U2NvcmVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/FULearning/Semester7th_Spring2024/PRN221/Project/ScoreManagementSystem/ScoreManagementSystem/Pages/ComponentScores/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tcG9uZW50U2NvcmVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/FULearning/Semester7th_Spring2024/PRN221/Project/ScoreManagementSystem/ScoreManagementSystem/Pages/ComponentScores/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tcG9uZW50U2NvcmVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/FULearning/Semester7th_Spring2024/PRN221/Project/ScoreManagementSystem/ScoreManagementSystem/Pages/ComponentScores/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tcG9uZW50U2NvcmVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/FULearning/Semester7th_Spring2024/PRN221/Project/ScoreManagementSystem/ScoreManagementSystem/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/FULearning/Semester7th_Spring2024/PRN221/Project/ScoreManagementSystem/ScoreManagementSystem/Pages/ForgotPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRm9yZ290UGFzc3dvcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/FULearning/Semester7th_Spring2024/PRN221/Project/ScoreManagementSystem/ScoreManagementSystem/Pages/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/FULearning/Semester7th_Spring2024/PRN221/Project/ScoreManagementSystem/ScoreManagementSystem/Pages/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/FULearning/Semester7th_Spring2024/PRN221/Project/ScoreManagementSystem/ScoreManagementSystem/Pages/Otp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3RwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/FULearning/Semester7th_Spring2024/PRN221/Project/ScoreManagementSystem/ScoreManagementSystem/Pages/PageNotFound.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnZU5vdEZvdW5kLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/FULearning/Semester7th_Spring2024/PRN221/Project/ScoreManagementSystem/ScoreManagementSystem/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/FULearning/Semester7th_Spring2024/PRN221/Project/ScoreManagementSystem/ScoreManagementSystem/Pages/Profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZmlsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/FULearning/Semester7th_Spring2024/PRN221/Project/ScoreManagementSystem/ScoreManagementSystem/Pages/ResetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVzZXRQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/FULearning/Semester7th_Spring2024/PRN221/Project/ScoreManagementSystem/ScoreManagementSystem/Pages/Scores/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2NvcmVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/FULearning/Semester7th_Spring2024/PRN221/Project/ScoreManagementSystem/ScoreManagementSystem/Pages/Scores/Student.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2NvcmVzXFN0dWRlbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/FULearning/Semester7th_Spring2024/PRN221/Project/ScoreManagementSystem/ScoreManagementSystem/Pages/Shared/_LayoutDashBoard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXREYXNoQm9hcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/FULearning/Semester7th_Spring2024/PRN221/Project/ScoreManagementSystem/ScoreManagementSystem/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/FULearning/Semester7th_Spring2024/PRN221/Project/ScoreManagementSystem/ScoreManagementSystem/Pages/Subjects/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3ViamVjdHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/FULearning/Semester7th_Spring2024/PRN221/Project/ScoreManagementSystem/ScoreManagementSystem/Pages/Subjects/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3ViamVjdHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/FULearning/Semester7th_Spring2024/PRN221/Project/ScoreManagementSystem/ScoreManagementSystem/Pages/Subjects/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3ViamVjdHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/FULearning/Semester7th_Spring2024/PRN221/Project/ScoreManagementSystem/ScoreManagementSystem/Pages/Subjects/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3ViamVjdHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/FULearning/Semester7th_Spring2024/PRN221/Project/ScoreManagementSystem/ScoreManagementSystem/Pages/Subjects/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3ViamVjdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/FULearning/Semester7th_Spring2024/PRN221/Project/ScoreManagementSystem/ScoreManagementSystem/Pages/Users/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/FULearning/Semester7th_Spring2024/PRN221/Project/ScoreManagementSystem/ScoreManagementSystem/Pages/Users/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/FULearning/Semester7th_Spring2024/PRN221/Project/ScoreManagementSystem/ScoreManagementSystem/Pages/Users/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/FULearning/Semester7th_Spring2024/PRN221/Project/ScoreManagementSystem/ScoreManagementSystem/Pages/Users/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/FULearning/Semester7th_Spring2024/PRN221/Project/ScoreManagementSystem/ScoreManagementSystem/Pages/Users/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/FULearning/Semester7th_Spring2024/PRN221/Project/ScoreManagementSystem/ScoreManagementSystem/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/FULearning/Semester7th_Spring2024/PRN221/Project/ScoreManagementSystem/ScoreManagementSystem/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/FULearning/Semester7th_Spring2024/PRN221/Project/ScoreManagementSystem/ScoreManagementSystem/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-8s1np89szq

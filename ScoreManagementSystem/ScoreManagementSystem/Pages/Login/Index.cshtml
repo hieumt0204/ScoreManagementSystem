@@ -1,0 +1,91 @@
+﻿@page
+@model ScoreManagementSystem.Pages.Login.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Login</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">
+    <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900|Material+Icons'>
+    <link rel="stylesheet" href="~/css/login.css">
+</head>
+
+<body>
+    <div class="form">
+        <div class="form-toggle"></div>
+        <div class="form-panel one">
+            <div class="form-header">
+                <h1>Account Login</h1>
+            </div>
+            <div class="form-content">
+                <form method="post" asp-page-handler="Login">
+                    <div class="form-group">
+                        <label for="username">Email</label>
+                        <input type="text" id="username" asp-for="User.Email" required="required" />
+                    </div>
+                    <div class="form-group">
+                        <label for="password">Password</label>
+                        <input type="password" id="password" asp-for="User.Password" required="required" />
+                    </div>
+                    <div class="form-group">
+                        <label class="form-remember">
+                           
+                        </label><a class="form-recovery" href="/ForgotPassword">Forgot Password?</a>
+                    </div>
+                    <div class="form-group">
+                        <code>@Model.Message</code>
+                        <button type="submit">Log In</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+        <div class="form-panel two">
+            <div class="form-header">
+                <h1>Register Account</h1>
+            </div>
+            <div class="form-content">
+                <form method="post" asp-page-handler="Register">
+                    <div class="form-group">
+                        <label>Email</label>
+                        <input type="email" asp-for="RegisterUser.Email" required="required" />
+                    </div>
+                    <div class="form-group">
+                        <label>Password</label>
+                        <input type="password" asp-for="RegisterUser.Password" required="required" />
+                    </div>
+                    <div class="form-group">
+                        <label>Confirm Password</label>
+                        <input type="password" asp-for="ConfirmPassword" required="required" />
+                    </div>
+                    <div class="form-group">
+                        <label >Full Name</label>
+                        <input type="text" asp-for="RegisterUser.Name" required="required" />
+                    </div>
+                    <div class="form-group">
+                        <label>Gender</label>
+                        <select class="form-control" asp-for="RegisterUser.Gender">
+                            <option value="true">Male</option>
+                            <option value="false">Female</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <p>@Model.Message</p>
+                        <button type="submit">Register</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <!-- partial -->
+    <script src="~/js/login.js"></script>
+</body>
+
+</html>

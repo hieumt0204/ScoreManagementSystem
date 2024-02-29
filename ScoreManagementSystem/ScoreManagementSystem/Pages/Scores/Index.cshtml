@@ -1,0 +1,207 @@
+﻿@page
+@model ScoreManagementSystem.Pages.Scores.IndexModel
+@using Microsoft.EntityFrameworkCore;
+@using ScoreManagementSystem.Models
+@using Microsoft.AspNetCore.Http
+@inject IHttpContextAccessor Accessor
+@{
+    Prn221Context context = new Prn221Context();
+    List<Subject> subjects = context.Subjects.Include(s => s.Classes)
+        .Where(s => 
+            ((s.Classes.Where(c => c.TeacherId == Model.userId).ToList().Count > 0)
+            || Model.roleId == (int)RoleEnum.ADMIN)
+            && s.Active == true
+        )
+        .ToList();
+    List<Class> classs = new List<Class>();
+    List<ComponentScore> componentScores = new List<ComponentScore>();
+
+    if(Model.SubjectId != null)
+    {
+        classs = context.Classes
+            .Where(c => c.SubjectId == Model.SubjectId
+                && (Model.roleId==(int)RoleEnum.ADMIN || c.TeacherId == Model.userId)
+                && c.Active == true
+            )
+            .ToList();
+        componentScores = context.ComponentScores
+            .Where(c => c.SubjectId == Model.SubjectId
+                && c.Active == true
+            )
+            .OrderBy(x => x.Percent)
+            .ToList();
+    }
+    else if(subjects != null && subjects.Count > 0)
+    {
+        classs = context.Classes
+            .Where(c => c.SubjectId == subjects[0].Id
+               && (Model.roleId==(int)RoleEnum.ADMIN || c.TeacherId == Model.userId)
+               && c.Active == true
+            )
+            .ToList();
+        componentScores = context.ComponentScores
+            .Where(c => c.SubjectId == subjects[0].Id
+                && c.Active == true
+            )
+            .OrderBy(x => x.Percent)
+            .ToList();
+    }
+    
+    var idx = 1;
+}
+
+<h1>Scores</h1>
+<div class="row">
+
+
+<form class="row col-md-8" asp-page-handler="" method="post">
+    <div class="col-md-6">
+        <h4>Subject:</h4>
+        <div class="form-group">
+            <select id="subjectSelect" asp-for="@Model.SubjectId" class="form-control w-50">
+                @foreach (var item in subjects)
+                {
+                    <option value="@item.Id">@item.Name</option>
+                }
+            </select>
+        </div>
+    </div>
+    <div class="col-md-6">
+        <h4>Class:</h4>
+        <div class="form-group">
+            <select id="classSelect" asp-for="@Model.ClassId" class="form-control w-50">
+                @foreach (var item in classs)
+                {
+                    <option value="@item.Id">@item.Name</option>
+                }
+            </select>
+        </div>
+    </div>
+    <div class="col-md-6">
+        <h4>Student ID or Name:</h4>
+        <div class="form-group">
+            <input id="searchText" asp-for="@Model.SearchText" class="form-control w-50" placeholder="Search Student ID or Name..."/>
+        </div>
+    </div>
+    <div class="col-md-6">
+        <h4>Component Score:</h4>
+        <div class="form-group">
+            <select id="componentScoreSelect" asp-for="@Model.ComponentId" class="form-control w-50">
+                <option value="-1">All</option>
+                @foreach (var item in componentScores)
+                {
+                    <option value="@idx">@item.Name</option>
+                    idx++;
+                }
+            </select>
+        </div>
+    </div>
+    <div class="col-md-6">
+        <button class="btn btn-primary w-50">Search</button>
+    </div>
+    <div class="col-md-6">
+        <button id="saveButton" type="button" class="btn btn-primary w-50">Save Score</button>
+    </div>
+</form>
+<div class="col-md-4">
+    <form asp-page-handler="Import" method="post" enctype="multipart/form-data">
+        <div class="form-group">
+            <h4>Class To Import or Export:</h4>
+            <select id="classSelect2" asp-for="@Model.ClassToImport" class="form-control w-50">
+                @foreach (var item in classs)
+                {
+                    <option value="@item.Id">@item.Name</option>
+                }
+            </select>
+        </div>
+        <div class="form-group">
+            <h4 for="fileInput">Choose file Excel to Import:</h4>
+            <input type="file" class="form-control-file" id="fileInput" asp-for="@Model.file" accept=".xlsx, .xls">
+        </div>
+        <div class="form-group">
+            <button type="submit" class="btn btn-primary form-control w-50">Import from Excel</button>
+        </div>
+    </form>
+    <hr/>
+    <div class="form-group">
+        <button class="btn btn-primary form-control w-50" onclick="ExportExcel()">Export to Excel</button>
+    </div>
+    <div class="text-danger">@Model.Message</div>
+</div>
+
+</div>
+@if(Model.ClassId == null)
+{
+    <h1>Please choose Class To Load Data</h1>
+}
+else
+{
+    <table id="exampleTable" data-toggle="table"
+    data-pagination="true" class="table text-nowrap mt-3">
+    <thead>
+        <tr>
+            <th data-sortable="true" class="border-top-0">ID</th>
+            <th data-sortable="true" class="border-top-0">Name</th>
+            @{
+                double? percent = 0;
+                foreach (var item in componentScores)
+                {
+                    percent += item.Percent;
+                    <th data-sortable="true" class="border-top-0">@item.Name (@item.Percent%)</th>
+                }
+            }
+            <th data-sortable="true" class="border-top-0">
+                Total (@percent?.ToString("N2")%)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+       
+        @{
+            foreach (var item in Model.ClassStudents)
+            {
+                double? total = 0;
+                percent = 0;
+                <tr>
+                    <td>@item.StudentId</td>
+                    <td class="student-name">@item.Student?.Name</td>
+                    @foreach (var sc in componentScores)
+                    {
+                        var score = context.Scores
+                            .SingleOrDefault(s => s.StudentId == item.Id
+                                && s.ComponentScoreId == sc.Id
+                            );
+                        if(score != null)
+                        {
+                            total += score.Score1 * sc.Percent / 100;
+                            percent += sc.Percent;
+                        }
+                        <td class="component-score">
+                            <input name="percent" value="@sc.Percent" hidden/>
+                            <input name="componentScore" value="@sc.Id" hidden/>
+                            <input name="classStudent" value="@item.Id" hidden/>
+                            <input class="form-control" 
+                                style="width: 80px" 
+                                type="number"
+                                name="score"
+                                min="0"
+                                max="10"
+                                value="@(score == null ? "" : score.Score1)"/>
+                        </td>
+                    }
+                    <td>@total?.ToString("N2") (@percent?.ToString("N2")%)</td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>
+}
+@*<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>*@
+<script src="~/js/score.js">
+</script>
+<script>
+    function ExportExcel(){
+        var classId = $('#classSelect2').val();
+        window.location.href = "/Scores/Index?handler=Export&classId="+classId;
+    }
+</script>
